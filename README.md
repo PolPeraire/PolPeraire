@@ -31,8 +31,8 @@
 
 ---
 
-### 🚀 [Análisis de hoteles](https://github.com/polperaire/analisis-ventas)
-📊 *Exploración de datos de ventas y visualización con Seaborn*  
+### 🚀 [Análisis de Hoteles](https://github.com/polperaire/analisis-hoteles)
+📊 *Exploración de datos de ventas yhvisualización con Seaborn*  
 ✅ Limpieza de datos  
 ✅ Análisis de tendencias  
 ✅ Creación de gráficos  
