@@ -66,7 +66,7 @@
 ## 📈 Habilidades Técnicas  
 💡 *Lenguajes y herramientas que utilizo en mis análisis de datos:*  
 
-✔ **Lenguajes:** `Python`, `SQL *cursando*`  
+✔ **Lenguajes:** `Python`, `SQL (cursando)`  
 ✔ **Bibliotecas:** `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`, `Scikit-Learn`   
 ✔ **Visualización:** `Tableau`, `Power BI`  
 ✔ **Machine Learning:** Modelos predictivos con `Scikit-Learn`  
