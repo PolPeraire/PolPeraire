@@ -5,7 +5,7 @@
 - 🐍 Experto en Python, Pandas, Matplotlib y Seaborn.
 - 📈 Apasionado por la visualización de datos y el storytelling con datos.
 
-🔗 **LinkedIn:** [https://https://www.linkedin.com/in/pol-peraire/](https://linkedin.com/in/polperaire)  
+🔗 **LinkedIn:** [https://https://www.linkedin.com/in/polperaire](https://www.linkedin.com/in/polperaire)  
 📧 **Email:** [polperaire0@gmail.com](mailto:polperaire0@gmail.com)
 
 ## 📂 Proyectos Destacados
