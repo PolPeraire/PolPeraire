@@ -1,5 +1,5 @@
 #  👋¡Hola! Soy Pol, Analista de Datos 👨‍💻  
-📊 *Transformo datos en insights accionables con Python, Pandas y visualización avanzada.*  
+📊 *Transformo datos en insights accionables con Python, Pandas y visualización avanzada. Aquí encontrarás algunos de mis proyectos más importantes.*  
 
 ## 🧑‍💻 Sobre Mí
 - 🎓 **Especialista en Ciencia de Datos y Análisis Predictivo**
@@ -31,9 +31,9 @@
 
 ### 🛒 [**Análisis de Ventas**](https://github.com/polperaire/analisis-ventas)  
 📍 *Descubre patrones de compra y optimiza estrategias de negocio*  
-✅ **Limpieza de datos** con `Pandas`  
-✅ **Análisis de tendencias** en ventas  
-✅ **Visualización de datos** con `Seaborn`  
+✅ **Limpieza de datos** 
+✅ **Análisis de tendencias en ventas**  
+✅ **Visualización de datos**  
 
 🔍 **Tecnologías:** `Python`, `Pandas`, `Matplotlib`, `Seaborn`  
 📸 **Vista previa:**  
@@ -43,9 +43,9 @@
 
 ### ✈️ [**Análisis de Viajes y Procedencia de los Turistas**](https://github.com/polperaire/analisis-viajes)  
 📍 *¿De dónde vienen los viajeros? ¿Cuáles son los destinos más visitados?*  
-✅ **Limpieza y preprocesamiento** de datos  
-✅ **Análisis de gasto turístico** según temporada  
-✅ **Segmentación de turistas** por origen y destino  
+✅ **Limpieza y preprocesamiento de datos**  
+✅ **Análisis de gasto turístico según temporada**  
+✅ **Segmentación de turistas por origen y destino**  
 
 🔍 **Tecnologías:** `Python`, `Pandas`, `Matplotlib`, `Seaborn`  
 📸 **Vista previa:**  
@@ -57,7 +57,7 @@
 📍 *Identificación de factores clave en la ocupación hotelera y tarifas*  
 ✅ **Análisis de ocupación y tendencias**  
 ✅ **Evaluación de precios y estacionalidad**  
-✅ **Visualización de insights** para toma de decisiones  
+✅ **Visualización de insights para toma de decisiones**  
 
 🔍 **Tecnologías:** `Python`, `Pandas`, `Seaborn`  
 📸 **Vista previa:**  
