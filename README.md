@@ -4,7 +4,7 @@
 ## 🧑‍💻 Sobre Mí
 - 🎓 **Especialista en Ciencia de Datos y Análisis Predictivo**
 - 🎓 **Cursando Máster en Big Data, Business Intelligence y Cloud Computing** 
-- 🗄️ **Cursando SQL** *(Optimización y consultas avanzadas)*   
+- 🗄️  **Cursando SQL** *(Optimización y consultas avanzadas)*   
 - 🐍 **Experto en Python, Pandas, Matplotlib y Seaborn**  
 - 📊 **Apasionado por la visualización de datos y storytelling**  
 - 🤖 **Interesado en Machine Learning y modelos predictivos**  
