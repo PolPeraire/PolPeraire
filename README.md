@@ -1,4 +1,4 @@
-# 🚀 ¡Hola! Soy Pol, Analista de Datos 👋  
+# 👨‍💻 ¡Hola! Soy Pol, Analista de Datos 👋  
 📊 *Transformo datos en insights accionables con Python, Pandas y visualización avanzada.*  
 
 ## 🧑‍💻 Sobre Mí
