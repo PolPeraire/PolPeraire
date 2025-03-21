@@ -2,7 +2,9 @@
 📊 *Transformo datos en insights accionables con Python, Pandas y visualización avanzada.*  
 
 ## 🧑‍💻 Sobre Mí
-- 🎓 **Especialista en Ciencia de Datos y Análisis Predictivo**  
+- 🎓 **Especialista en Ciencia de Datos y Análisis Predictivo**
+- 🎓 **Cursando Máster en Big Data, Business Intelligence y Cloud Computing** 
+- 🗄️  **Cursando SQL** *(Optimización y consultas avanzadas)*   
 - 🐍 **Experto en Python, Pandas, Matplotlib y Seaborn**  
 - 📊 **Apasionado por la visualización de datos y storytelling**  
 - 🤖 **Interesado en Machine Learning y modelos predictivos**  
@@ -66,10 +68,11 @@
 ## 📈 Habilidades Técnicas  
 💡 *Lenguajes y herramientas que utilizo en mis análisis de datos:*  
 
-✔ **Lenguajes:** `Python`, `SQL (cursando)`  
-✔ **Bibliotecas:** `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`, `Scikit-Learn`   
-✔ **Visualización:** `Tableau`, `Power BI`  
-✔ **Machine Learning:** Modelos predictivos con `Scikit-Learn`  
+✔ **Lenguajes:** `Python`   
+✔ **Bibliotecas:** `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`, `Scikit-Learn` 
+✔ **Bases de Datos:** `SQL` *(En formación)*     
+✔ **Big Data & Business Intelligence:** `Power BI`, `Tableau` *(En formación)* 
+✔ **Cloud Computing:** `AWS`, `Google Cloud` *(En formación)* 
 
 ---
 
